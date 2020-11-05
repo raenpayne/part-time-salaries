@@ -2,7 +2,7 @@
 
 def calculator():
     print('Please enter the Full Time Salary. Do not enter commas.') #ask for salary
-    salary = int(input())
+    salary = float(input())
 
     print('Please enter the number of hours per week.') #ask for hrs per week
     hrsPerWk = int(input())
