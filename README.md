@@ -13,6 +13,6 @@ Does what it says. It's not fancy and I'm just learning python so future me will
 # Features
 This tool will take your full time salary and decreased number of hours and do the math for you to calculate what the new part time salary should be. 
 
-For example, say your employee's salary is $68,000.33 per year and they've reduced their hours to 34/week. Sure, you can do the math manually but this is the perfect job for a computer.
+For example, say your employee's salary is $68,000.33 per year and they've reduced their hours to 34/week. Sure, you can do the math manually but this is the perfect job for a computer. Please see example of terminal output below.
 
 ![part time salary terminal output](https://github.com/raenpayne/part-time-salaries/blob/master/ptsalary%20preview.png)
