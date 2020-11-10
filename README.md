@@ -1,7 +1,7 @@
 # Part-Time Salaries
 A little python tool to calculate salaries with fewer than 40 hours per week
 
-I created this tool while at my last job because our HRIS UI could not calculate part time salaries and I was often entering them. It's not fancy and I'm just learning python so future me will probably cringe.
+I created this tool while at my last job because our HRIS' UI could not calculate part time salaries and I was often entering them. It's not fancy and I'm just learning python so future me will probably cringe.
 
 # Updates
 ### Nov 2020
