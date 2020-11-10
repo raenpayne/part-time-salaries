@@ -5,7 +5,9 @@ I created this tool while at my last job because our HRIS' UI could not calculat
 
 # Updates
 ### Nov 2020
-1. Added a compiled version of ptsalary. Mac OS X compatible. Download the zip, unzip and double click ptsalary. View the associated README for more info.
+1. Added a compiled version of ptsalary. Mac OS X compatible. That's it. No need to install Python. Download the zip, unzip and double click ptsalary. View the associated README for more info.
+
+_Once I set up a Windows partition or move my Windows machine I'll create a Windows compatible version._
 
 ### Oct 2020
 1. Added a fancy header. 
