@@ -1,5 +1,5 @@
 # ptsalary.zip - Readme
-If you don't have Python installed or just don't want to bother, AND you have a Mac you can now run the tool as a standard application. 
+If you don't have Python installed, or just don't want to bother, and you have a Mac you can now run the tool as a standard application. 
 
 Download the zip, unzip it. 
 Open the ptsalary folder.
