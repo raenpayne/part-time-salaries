@@ -9,9 +9,11 @@ If you're looking at this and you're in HR but don't have any coding experience 
 
 # Updates
 ### Nov 2020
-Added a compiled version of ptsalary. Mac OS X compatible. 
+Added a compiled version of Part Time Salary Calculator. Mac OS X compatible. 
 
-If you have a Mac just download the zip file. No need to install Python. Once downloaded, unzip the file and double click ptsalary. View the associated README for more info.
+If you have a Mac just download the zip file in the folder titled: PTSalary Standalone - Mac OS X compatible. 
+
+No need to install Python. Once downloaded, unzip the file and double click ptsalary. View the associated README for more info.
 
 However, if you'd like to learn more about Python, how to get it up and running and how to use Terminal, follow along below.
 
