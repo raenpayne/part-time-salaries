@@ -7,6 +7,13 @@ If you're looking at this and you're in HR but don't have any coding experience 
  - Python 3.x.x
  - Windows, MacOS, Linux
 
+# Updates
+### Nov 2020
+Added a compiled version of ptsalary. Mac OS X compatible. 
+
+If you have a Mac just download the zip file. No need to install Python. Once downloaded, unzip the file and double click ptsalary. View the associated README for more info.
+
+However, if you'd like to learn more about Python, how to get it up and running and how to use Terminal, follow along below.
 
 # Install Python. Run the Script.
 After you've downloaded the ptsalary.py script you'll need to check whether you have Python installed and if so which version.
@@ -18,22 +25,22 @@ If you have a Mac you likely already have an older version of Python installed. 
 
 
 ### Check Current Version of Python
-To check your current, default, version of python open up terminal and type:
+To check your current, default, version of Python open up Terminal and type:
  
 ``user$ python --version``
 
-To check which version of python3 is installed type: 
+To check which version of Python3 is installed type: 
 
 ``user$ python3 --version``
 
-As of this writing the current version of python is 3.9.0. 
+As of this writing the current version of Python is 3.9.0. 
 
 If you don't have 3.x or higher Part Time Salary Calculator will not run so be sure to update to the latest version.
 
 ![check your current python version](images/terminal-commands/python-version.png)
 
 ### Install Python
-You can install python from Terminal however you can also go to [python.org](https://www.python.org/downloads/) and download the latest version. When the pkg is done downloading run it and follow the on screen prompts. 
+You can install Python from Terminal however you can also go to [python.org](https://www.python.org/downloads/) and download the latest version. When the pkg is done downloading run it and follow the on screen prompts. 
 
 ### Run ptsalary.py Using the GUI
 
@@ -57,7 +64,7 @@ Next to the C:\ prompt type:
 
 
 ### Installation
-If python isn't installed or you only have a version prior to 3.x you'll need to download a copy.
+If Python isn't installed or you only have a version prior to 3.x you'll need to download a copy.
 
 [Download python for windows here: ](https://www.python.org/downloads/windows/)https://www.python.org/downloads/windows/
 
