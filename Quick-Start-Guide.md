@@ -7,7 +7,6 @@ If you're looking at this and you're in HR but don't have any coding experience 
  - Python 3.x.x
  - Windows, MacOS, Linux
 
----
 
 # Install Python. Run the Script.
 After you've downloaded the ptsalary.py script you'll need to check whether you have Python installed and if so which version.
