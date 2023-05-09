@@ -42,7 +42,7 @@ No need to install Python. Once downloaded, unzip the file and double click ptsa
 
 # Install Python
 
-To run this ptsalary.py you'll need to ensure your computer has Python installed and that you have version 3.x or higher. Versions of Python prior to 3.x will not be able to run the script.
+To run this ptsalary.py script you'll need to ensure your computer has Python installed and that you have version 3.x or higher. Versions of Python prior to 3.x will not be able to run the script.
 
 
 
