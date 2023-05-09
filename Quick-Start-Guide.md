@@ -127,7 +127,7 @@ If you're using OSX you have several options for running PTSalary. You can use t
 Now that you've installed Python it's time to run the script. To do so, do the following:
 
 1. Navigate to where you saved the ptsalary.py file and right-click it
-2. Click on *Open*
+2. Click on Open
 3. Follow the on-screen instructions or see below for further details
 
 ![right context menu python launcher on Windows - screen cap](images/ptsalary_open_windows.png)
