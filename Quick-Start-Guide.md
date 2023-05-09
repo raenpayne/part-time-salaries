@@ -1,5 +1,5 @@
 # Part Time Salary Calculator:<br>User Guide
----
+
 #### This user guide will walk you through installing Python and using the ptsalary app.
 
 If you're looking at this and you're in HR but don't have any experience with Python you're probably thinking, how do I run this weird ptsalary.py file? This document will help you get up and running in no time. 
@@ -22,7 +22,7 @@ You can jump to the end of this file if you just want instructions for using the
 
 
 # Requirements
----
+
  - Python 3.x.x
  - Windows, MacOS, Linux
 
@@ -30,7 +30,7 @@ You can jump to the end of this file if you just want instructions for using the
 
 
 # Updates
----
+
 ### Nov 2020
 Added a compiled version of Part Time Salary Calculator. Mac OS X compatible. 
 
@@ -41,13 +41,13 @@ No need to install Python. Once downloaded, unzip the file and double click ptsa
 
 
 # Install Python
----
+
 To run this ptsalary.py you'll need to ensure your computer has Python installed and that you have version 3.x or higher. Versions of Python prior to 3.x will not be able to run the script.
 
 
 
 ## Install Python on Mac OSX
---- 
+ 
 If you have a Mac you likely already have an older version of Python installed. However, you'll need to have at least version 3.0 to use Part Time Salary Calculator. 
 
 
