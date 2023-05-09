@@ -77,7 +77,7 @@ You can install Python from Terminal however you can also go to [python.org](htt
 
 ## Install Python on Windows
 
-Windows does not come with Python already installed so you'll likely need to install Python first. However, if you'd like to make sure it's not already installed you can do so from the command prompt. To open the command prompt do the following:
+Windows does not come with Python already installed so you'll likely need to install Python first. However, if you'd like to make sure it's not already installed you can do so from the command prompt. To open a command prompt do the following:
 
 ### Open A Command Prompt
 
