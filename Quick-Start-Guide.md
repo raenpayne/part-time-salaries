@@ -76,7 +76,7 @@ You can install Python from Terminal however you can also go to [python.org](htt
 
 
 ## Install Python on Windows
----
+
 Windows does not come with Python already installed so you'll likely need to install Python first. However, if you'd like to make sure it's not already installed you can do so from the command prompt. To open the command prompt do the following:
 
 ### Open A Command Prompt
@@ -100,7 +100,7 @@ Select the latest version compatible with your version of Windows. Once the inst
 
 
 # Running the Script on OSX
----
+
 If you're using OSX you have several options for running PTSalary. You can use the PTSalary app, you can run the .py file using the Python Launcher via the right-click context menu.
 
 
@@ -123,7 +123,7 @@ If you're using OSX you have several options for running PTSalary. You can use t
 
 
 # Running the Script on Windows
----
+
 Now that you've installed Python it's time to run the script. To do so, do the following:
 
 1. Navigate to where you saved the ptsalary.py file and right-click it
@@ -134,7 +134,7 @@ Now that you've installed Python it's time to run the script. To do so, do the f
 
 
 # Using The PTSalary.py App
----
+
 After you've opened the script a window will open. Part Time Salary Calculator will display at the top of the screen. To calculate your new salary based on fewer than 40 hours of work per week do the following:
 1. Type the full time salary, annually, **omitting any commas**. For example, **if the employee's salary is $68,000.33 per year, enter 68000.33**.
 2. Press Enter
