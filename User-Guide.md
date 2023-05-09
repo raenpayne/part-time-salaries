@@ -136,7 +136,7 @@ Now that you've installed Python it's time to run the script. To do so, do the f
 # Using The PTSalary.py App
 
 After you've opened the script a window will open. Part Time Salary Calculator will display at the top of the screen. To calculate your new salary based on fewer than 40 hours of work per week do the following:
-1. Type the full time salary, annually, **omitting any commas**. For example, **if the employee's salary is $68,000.33 per year, enter 68000.33**.
+1. Type the full time annual salary **omitting any commas**. For example, **if the employee's salary is $68,000.33 per year, enter 68000.33**. (This is because I am not that good of a coder and don't want to force it to accept commas.)
 2. Press Enter
 3. Enter the new number of hours the employee will be working. For example, 34.
 4. Press Enter
