@@ -4,6 +4,9 @@ A little python tool to calculate salaries with fewer than 40 hours per week
 I created this tool while at my last job because our HRIS' UI could not calculate part time salaries and I was often entering them. It's not fancy and I'm just learning python so future me will probably cringe.
 
 # Updates
+### May 2023
+1. Updated the documentation to include better instructions for Windows and rearranged the layout to increase readability.
+
 ### Nov 2020
 1. Added a compiled version of ptsalary. Mac OS X compatible. That's it. No need to install Python. Download the zip, unzip and double click ptsalary. View the associated README for more info.
 
